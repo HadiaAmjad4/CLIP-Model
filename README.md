@@ -13,17 +13,15 @@ This project explores **CLIP (Contrastive Language–Image Pretraining)**, a mod
 
 ## Repository Structure
 
----
-
 CLIP-Model/
-├── CLIP_notebook.ipynb      # Main notebook with all experiments
-├── Report_CLIP.pdf          # Project report
-└── README.md                # This file
-
----
+├── CLIP_notebook.ipynb    # Notebook with experiments
+├── Report_CLIP.pdf        # Project report
+└── README.md              # This file
 
 
 ---
+
+
 
 ## Getting Started
 
